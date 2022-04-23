@@ -1,4 +1,4 @@
-# Risk Return Analysis 
+# Risk-Return Analysis 
 
 Comparing four portfolios(*Soros Fund Management LLC*, *Paulson & CO.Inc.*, *Tiger Global Management LLC*, *Berkshire Hathway Inc.*) to the market from 2014 through 2021. The analysis includes **the performance, volitility, and risk** of all four portfolios.
 
@@ -30,7 +30,7 @@ pip install matplotlib
 
 ## Usage 
 
-The notebook is great for visuallizing what risk analysis would look like. This is not a form a fanacial advice but an example that could be studied for self practice. Here is a demo of what someone will see in the notebook.
+The notebook is great for visuallizing what risk-return analysis would look like. This is not a form a fanacial advice but an example that could be studied for self practice. Here is a demo of what someone will see in the notebook.
 ![Demo](demo.png)
 
 ---
