@@ -30,7 +30,7 @@ pip install matplotlib
 
 ## Usage 
 
-The notebook is great for visuallizing what risk-return analysis would look like. This is not a form a fanacial advice but an example that could be studied for self practice. Here is a demo of what someone will see in the notebook.
+The notebook is great for visuallizing what a risk-return analysis would look like. This is not a form a fanacial advice but an example that could be studied for self practice. Here is a demo of what someone will see in the notebook.
 ![Demo](demo.png)
 
 ---
